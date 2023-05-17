@@ -1,0 +1,11 @@
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\bin\Debug\Serial Recive Control Panel.exe.config
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\bin\Debug\Serial Recive Control Panel.exe
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\bin\Debug\Serial Recive Control Panel.pdb
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.csproj.AssemblyReference.cache
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial_Recive_Control_Panel.Form1.resources
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial_Recive_Control_Panel.Properties.Resources.resources
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.csproj.GenerateResource.cache
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.csproj.CoreCompileInputs.cache
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.exe
+C:\Users\qwerb\Desktop\Serial Recive Control Panel\Serial Recive Control Panel\obj\Debug\Serial Recive Control Panel.pdb
